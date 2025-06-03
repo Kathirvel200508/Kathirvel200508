@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kathirvel200508
+- 👋 Hi, I’m @Kathirvel
 - 👀 I’m interested in ... Python, HTML, CSS, JS
 - 🌱 I’m currently learning ...HTML, CSS, JS
 - 💞️ I’m looking to collaborate with ...Software Developers
